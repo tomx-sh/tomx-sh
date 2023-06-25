@@ -1,18 +1,31 @@
 ### Hi there 👋
 
-I am a full stack and web3 developer using React/Next.js, Supabase, Solidity and TypeScript. I also explore AI with the OpenAI ChatGPT API, iOS with Swift and creative coding with P5.js
+I am a full stack and Web3 developer focusing on `React/Next.js`, `Supabase`, `TypeScript` and `Solidity`.  
+I also explore AI with the OpenAI `ChatGPT API`, iOS with `Swift` and creative coding with `P5.js`.  
 
+<div style="background-color: white;">
+  <img align="left" alt="React" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+  <img align="left" alt="Nextjs" height="23px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+  <img align="left" alt="Supabase" height="23px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" />
+  <img align="left" alt="Solidity" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
+  <img align="left" alt="TypeScript" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
+  <img align="left" alt="OpenAI" height="23px" src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" />
+  <img align="left" alt="Swift" height="23px" src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png" />
+  <img align="left" alt="P5js" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" />
+</div>
 <br/>
-<img align="left" alt="React" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-<img align="left" alt="Nextjs" height="23px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
-<img align="left" alt="Supabase" height="23px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" />
-<img align="left" alt="Solidity" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
-<img align="left" alt="TypeScript" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="OpenAI" height="23px" src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" />
-<img align="left" alt="P5js" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" />
+<div style="background-color: green;">
+  <img style="float:left" alt="React" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+  <img style="float:left" alt="Nextjs" height="23px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+  <img style="float:left" alt="Supabase" height="23px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" />
+  <img style="float:left" alt="Solidity" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
+  <img style="float:left" alt="TypeScript" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
+  <img style="float:left" alt="OpenAI" height="23px" src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" />
+  <img style="float:left" alt="Swift" height="23px" src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png" />
+  <img style="float:left" alt="P5js" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/P5.js_icon.svg/2048px-P5.js_icon.svg.png" />
+  <div style="clear:both;"></div>
+</div>
 <br/>
-<br/>
-
 
 ## 💼 Work Experience
 * **Freelance Developer** / 2023-♾️
