@@ -17,7 +17,7 @@ I also explore **`AI`** with the OpenAI ChatGPT API, iOS with **`Swift`** and cr
 
 ## 🛠️ Main Projects
 * **CycleChain**, a dApp for managing inventories of assets using NFTs
-* **ChatKinsey** an AI chat bot for strategy consulting firms candidates
+* **ChatKinsey**, an AI chat bot for strategy consulting firms candidates
 
 ## 💼 Work Experience
 * **Freelance Developer** / 2023-♾️
