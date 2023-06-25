@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 🎓 Education
+
+
+## 💼 Work Experience
+
 <!--
 **Stentor88Ch216/Stentor88Ch216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
