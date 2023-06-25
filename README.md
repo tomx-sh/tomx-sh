@@ -14,8 +14,8 @@ I also explore **`AI`** with the OpenAI ChatGPT API, iOS with **`Swift`** and cr
 <br/>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremypoinas)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Jeremync63)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-douche-ingenieur)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TomDch88)
 
 ## 🛠️ Main Projects
 * **CycleChain**, a dApp for managing inventories of assets using NFTs
