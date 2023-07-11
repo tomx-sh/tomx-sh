@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **Full Stack** and **Web3** developer focusing on **`React/Next.js`**, **`Supabase`**, **`TypeScript`** and **`Solidity`**.  
+I am a **Front-end** and **Web3** developer focusing on **`React/Next.js`**, **`Supabase`**, **`TypeScript`** and **`Solidity`**.  
 I also explore **`AI`** with the OpenAI ChatGPT API, iOS with **`Swift`** and creative coding with **`P5.js`**.
 
 <img align="left" alt="React" height="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
