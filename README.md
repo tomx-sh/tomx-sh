@@ -22,7 +22,7 @@ I also explore **`AI`** with the OpenAI ChatGPT API, iOS with **`Swift`** and cr
 * **ChatKinsey**, an AI chat bot for strategy consulting firms candidates
 
 ## 💼 Work Experience
-* **Freelance Developer** / 2023-♾️
+* **Blockchain Developer** / 2023-♾️
 * **Cybersecurity Consultant** at HeadMind Partners and Capgemini / 2020-2023
 
 ## 🎓 Education
