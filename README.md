@@ -20,7 +20,7 @@ I also explore **`AI`** with the OpenAI APIs, iOS with **`Swift`** and creative 
 ## 🛠️ Personal Projects
 * [**Cronodile**](https://www.cronodile.com), a markup language to generate plannings
 * [**ChatKinsey**](https://chatkinsey.vercel.app), an AI chat bot for strategy consulting firms candidates
-* [**CycleChain**](https://cyclechain.vercel.app/), a dApp for managing inventories of assets using NFTs (open on Chrome with Metamask)
+* [**CycleChain**](https://cyclechain.vercel.app/), a dApp for managing inventories of assets using NFTs (open in Chrome with Metamask)
 
 
 ## 💼 Work Experience
